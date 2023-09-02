@@ -5,12 +5,12 @@ Javafx编写的钉钉日报统计工具
 
 如有任何问题请发邮件至`github#wax.today`（#换成@）,邮件标题以`【Daily工具反馈】`开头
 
-[最新发行版本](https://gitee.com/WaxToday/Daily/releases/latest)
+[最新发行版本](https://github.com/WaxToday/Daily/releases/latest)
 
-[Github地址](https://github.com/WaxToday/Daily)
+[Gitee地址](https://gitee.com/WaxToday/Daily)
 
 #### 运行截图
-![运行截图](img/Daily.jpg)
+![运行截图](https://raw.githubusercontent.com/WaxToday/Daily/img/Daily.jpg)
 
 #### 使用说明
 
@@ -20,8 +20,7 @@ Javafx编写的钉钉日报统计工具
 2. Windows直接根据处理器选择exe文件下载
 - Daily_32-bit_x86.exe 32位
 - Daily_64-bit_x86.exe 64位
-- Daily_ARM64.exe ARM处理器选这个（Mac M1芯片的虚拟机用这个，至于没有虚拟机也不会配Java环境的还是别玩Mac了。。
-
+- Daily_ARM64.exe ARM处理器选这个（Mac M1芯片的虚拟机用这个，至于没有虚拟机也不会配Java环境的。。。Mac500块，猫收了）
 推荐使用Daily.jar
 
 ###### 操作
@@ -40,6 +39,6 @@ Javafx编写的钉钉日报统计工具
 
 欢迎右上角点Star  :star: 
 
-欢迎不差钱的老板们打赏孩子  :moneybag: 
+欢迎老板们打赏小鱼干  :moneybag: 
 
-![谢谢老板](img/appreciate.jpg)
+![谢谢老板](https://raw.githubusercontent.com/WaxToday/Daily/img/appreciate.jpg)
