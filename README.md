@@ -10,7 +10,8 @@ Javafx编写的钉钉日报统计工具
 [Gitee地址](https://gitee.com/WaxToday/Daily)
 
 #### 运行截图
-![运行截图](https://raw.githubusercontent.com/WaxToday/Daily/img/Daily.jpg)
+
+![运行截图](https://raw.githubusercontent.com/WaxToday/Daily/main/img/Daily.jpg)
 
 #### 使用说明
 
@@ -41,4 +42,5 @@ Javafx编写的钉钉日报统计工具
 
 欢迎老板们打赏小鱼干  :moneybag: 
 
-![谢谢老板](https://raw.githubusercontent.com/WaxToday/Daily/img/appreciate.jpg)
+![谢谢老板](https://raw.githubusercontent.com/WaxToday/Daily/main/img/appreciate.jpg)
+
