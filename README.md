@@ -18,10 +18,10 @@ Javafx编写的钉钉日报统计工具
 ###### 环境
 
 1. 有java环境的电脑直接使用jar文件，根据自己的java版本选择`Daily.jar`（>=JDK11）或`Daily_JDK8.jar`（JDK1.8）
-2. Windows直接根据处理器选择exe文件下载
-- Daily_32-bit_x86.exe 32位
-- Daily_64-bit_x86.exe 64位
-- Daily_ARM64.exe ARM处理器选这个（Mac M1芯片的虚拟机用这个，至于没有虚拟机也不会配Java环境的。。。Mac500块，猫收了）
+2. Windows环境需要自己手动合并一下（限制了上传大小，只能分成两个zip包）
+- Daily_windows.zip Windows32位可执行程序及lib库
+- jre.zip jre环境，解压后确保jre文件夹目录下有Welcome.html，然后将该jre文件夹放到Daily.exe所在目录
+- ARM处理器没找到windows的jre。。M1芯片还是自己在物理机装jdk11吧（至于没有虚拟机也不会配Java环境的。。。Mac500块，猫收了）
 推荐使用Daily.jar
 
 ###### 操作
